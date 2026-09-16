@@ -143,7 +143,7 @@
     "@types/sqlstring": "2.3.2",
     "@types/uuid": "11.0.0",
     "@types/yargs": "17.0.35",
-    "@vitest/coverage-v8": "5.0.0",
+    "@vitest/coverage-v8": "5.0.1",
     "bson": "7.3.2",
     "conditional-type-checks": "1.0.6",
     "dataloader": "2.2.3",
@@ -165,7 +165,7 @@
     "unplugin-swc": "1.6.0",
     "uuid": "14.0.2",
     "vite": "8.3.0",
-    "vitest": "5.0.0"
+    "vitest": "5.0.1"
   },
   "resolutions": {
     "js-yaml": "4.3.2",
